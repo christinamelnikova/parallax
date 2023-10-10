@@ -79,7 +79,7 @@ h1{
 }
 .item4{
     background: url("img/water2.png");
-    background-size: contain;
+    background-size: cover;
     position: absolute;
     width: 3%;
     height: 13%;
@@ -90,7 +90,7 @@ h1{
 }
 .item5{
     background: url("img/water3.png");
-    background-size: contain;
+    background-size: cover;
     position: absolute;
     width: 5%;
     height: 12%;
@@ -112,7 +112,7 @@ h1{
 }
 .item7{
     background: url("img/water5.png");
-    background-size: contain;
+    background-size: cover;
     position: absolute;
     width: 4%;
     height: 7%;
@@ -156,7 +156,7 @@ h1{
 }
 .item11{
     background: url("img/water4.png");
-    background-size: contain;
+    background-size: cover;
     position: absolute;
     width: 5%;
     height: 9%;
